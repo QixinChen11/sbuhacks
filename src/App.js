@@ -1,26 +1,51 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import { IconButton, Drawer, TextField, Button } from '@material-ui/core';
+import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+	const [drawer, setDrawer] = useState(true);
+	const handleDrawer = e => {
+		setDrawer(!drawer);
+	};
+	return (
+		<div style={{ backgroundColor: 'antiquewhite' }}>
+			<div className="container">
+				<IconButton
+					style={{ height: '100vh', borderRadius: '0px' }}
+					color="inherit"
+					edge="end"
+					onClick={handleDrawer}
+				>
+					<ChevronRightIcon />
+				</IconButton>
+
+				<Drawer variant="persistent" anchor="left" open={drawer} style={{borderRight:'groove'}}>
+					<h1 style={{textAlign:'center'}}>
+						Hit prediction
+					</h1>
+					<TextField
+						id="standard-required"
+						label="Required"
+						margin="normal"
+						helperText="Enter Artist Name"
+					/>
+					<TextField
+						required
+						id="standard-required"
+						label="Required"
+						margin="normal"
+						helperText="Enter Lyrics"
+						multiline
+					/>
+					<br />
+					<Button type="submit"  variant="contained" color="primary" onClick={handleDrawer} style={{minWidth:'400px'}}>
+						Submit
+					</Button>
+				</Drawer>
+			</div>
+		</div>
+	);
+};
 
 export default App;
