@@ -5,6 +5,9 @@ import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import Typography from '@material-ui/core/Typography';
 import 'react-circular-progressbar/dist/styles.css';
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
+import BubbleChart from '@weknow/react-bubble-chart-d3';
+import axios from 'axios';
+
 
 const App = () => {
 	const [drawer, setDrawer] = useState(true);
@@ -13,12 +16,23 @@ const App = () => {
 	const [artistName, setArtist] = useState('');
 	const [songName, setSong] = useState('');
 	const [lyrics, setLyrics] = useState('');
+	const [data, setData] = useState([]);
+
 
 	const handleSubmit = () => {
-		console.log(artistName, songName, lyrics);
-		setSubmit(true);
-		setWidth(40);
-		setDrawer(false);
+		axios.get('http://localhost:5000/top').then((res) => {
+			return res.json
+		}).then((data) => {
+			setSubmit(true);
+			setWidth(40);
+			setDrawer(false);
+			let freqs = {};
+            data['lyrics'].forEach((element) => {
+                freqs[element.label] = element.value;
+			});
+			setData(freqs);
+			console.log(freqs);
+		});
 	};
 	const handleDrawer = () => {
 		setWidth(380);
@@ -89,35 +103,36 @@ const App = () => {
 						</div>
 					</Drawer>
 				</div>
-				<div className="body" style={{ marginLeft: `${dWidth}px` }}>
-					{submit ? <h1> {songName + ' ' + artistName}</h1> : <div></div>}
+				{submit ? (
+					<div className="body" style={{ marginLeft: `${dWidth}px` }}>
+						<h1> {songName + ' ' + artistName}</h1>
 
-					<Typography paragraph>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-						labore et dolore magna aliqua. Rhoncus dolor purus non enim praesent elementum facilisis leo
-						vel. Risus at ultrices mi tempus imperdiet. Semper risus in hendrerit gravida rutrum quisque non
-						tellus. Convallis convallis tellus id interdum velit laoreet id donec ultrices. Odio morbi quis
-						commodo odio aenean sed adipiscing. Amet nisl suscipit adipiscing bibendum est ultricies integer
-						quis. Cursus euismod quis viverra nibh cras. Metus vulputate eu scelerisque felis imperdiet
-						proin fermentum leo. Mauris commodo quis imperdiet massa tincidunt. Cras tincidunt lobortis
-						feugiat vivamus at augue. At augue eget arcu dictum varius duis at consectetur lorem. Velit sed
-						ullamcorper morbi tincidunt. Lorem donec massa sapien faucibus et molestie ac.
-					</Typography>
-					<div className="circularBar">
-						<CircularProgressbar
-							value={69}
-							text={`69%`}
-							background
-							backgroundPadding={6}
-							styles={buildStyles({
-								backgroundColor: '#3e98c7',
-								textColor: '#fff',
-								pathColor: '#fff',
-								trailColor: 'transparent',
-							})}
-						/>
+						<BubbleChart
+                                data={data}
+                                width={1000}
+                                height={1200}
+                                graph={{ zoom: 0.95 }}
+                                showLegend={false}
+                            />
+
+						<div className="circularBar">
+							<CircularProgressbar
+								value={69}
+								text={`69%`}
+								background
+								backgroundPadding={6}
+								styles={buildStyles({
+									backgroundColor: '#3e98c7',
+									textColor: '#fff',
+									pathColor: '#fff',
+									trailColor: 'transparent',
+								})}
+							/>
+						</div>
 					</div>
-				</div>
+				) : (
+					<div></div>
+				)}
 			</div>
 		</div>
 	);
