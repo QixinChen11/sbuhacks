@@ -7,6 +7,7 @@ import 'react-circular-progressbar/dist/styles.css';
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
 import BubbleChart from '@weknow/react-bubble-chart-d3';
 import axios from 'axios';
+import { PieChart } from "react-d3-components";
 
 
 const App = () => {
@@ -18,7 +19,7 @@ const App = () => {
 	const [lyrics, setLyrics] = useState('');
 	const [data, setData] = useState([]);
 	const [hit, setHit] = useState("");
-
+	const [genres, setGenres] = useState([]);
 
 	const handleSubmit = () => {
 		fetch('http://localhost:5000/top').then((res) => {
@@ -34,6 +35,13 @@ const App = () => {
 					value: element[1]
 				});
 			});
+
+			setGenres(data['genres'].map(genre => {
+				return {
+					x: genre[0],
+					y: genre[1]
+				};
+			}));
 			setData(freqs);
 			console.log(freqs);
 		});
@@ -139,6 +147,17 @@ const App = () => {
 						<h4>
 							{ data.length } Songs
 						</h4>
+						<div className="pieChart">
+							<PieChart
+								data={ {
+									label: "Pie",
+									values: genres
+								} }
+								width={400}
+								height={400}
+								margin={{ top: 10, bottom: 10, left: 100, right: 100 }}
+							/>
+						</div>
 						<div class="chart">
 							<BubbleChart
 								data={data}
