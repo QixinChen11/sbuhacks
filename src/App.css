@@ -3,6 +3,29 @@
   align-items: center;
   justify-content: flex-start;
   height: 100vh;
-
+  flex-direction: row;
 }
 
+.container .body{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.drawerContent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.drawerContent #standard-required{
+  min-width: 300px;
+}
+
+.drawerContent #button{
+  min-width: 328px;
+}
+.circularBar{width:100;} 
