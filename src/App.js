@@ -128,16 +128,7 @@ const App = () => {
 				{submit ? (
 					<div className="body">
 						<h1> {songName + ' ' + artistName}</h1>
-						<h2>
-							{ hit ? "It's going to be a hit!" : "You don't have a top song"}
-						</h2>
-						<h3>
-							Your lyrics have a { hit * 100 }% chance of being a top hit on Billboard.
-						</h3>
-						<BubbleChart
-							data={data}
-							graph={{ zoom: 0.8 }}
-							showLegend={false}
+								value={69}
 						/>
 					</div>
 				) : (
