@@ -63,7 +63,7 @@ const App = () => {
 	};
 
 	return (
-		<div style={{ backgroundColor: 'antiquewhite' }}>
+		<div>
 			<div className="container">
 				<IconButton
 					style={{ height: '100vh', borderRadius: '0px' }}
@@ -127,18 +127,25 @@ const App = () => {
 				</div>
 				{submit ? (
 					<div className="body">
-						<h1> {songName + ' ' + artistName}</h1>
+						<h1>
+							Lyric Master
+						</h1>
 						<h2>
 							{ hit ? "It's going to be a hit!" : "You don't have a top song"}
 						</h2>
 						<h3>
 							Your lyrics have a { hit * 100 }% chance of being a top hit on Billboard.
 						</h3>
-						<BubbleChart
-							data={data}
-							graph={{ zoom: 0.8 }}
-							showLegend={false}
-						/>
+						<h4>
+							{ data.length } Songs
+						</h4>
+						<div class="chart">
+							<BubbleChart
+								data={data}
+								graph={{ zoom: 1 }}
+								showLegend={false}
+							/>
+						</div>
 					</div>
 				) : (
 					<div></div>
