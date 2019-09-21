@@ -17,22 +17,44 @@ const App = () => {
 	const [songName, setSong] = useState('');
 	const [lyrics, setLyrics] = useState('');
 	const [data, setData] = useState([]);
+	const [hit, setHit] = useState("");
 
 
 	const handleSubmit = () => {
-		axios.get('http://localhost:5000/top').then((res) => {
-			return res.json
+		fetch('http://localhost:5000/top').then((res) => {
+			return res.json();
 		}).then((data) => {
 			setSubmit(true);
 			setWidth(40);
 			setDrawer(false);
-			let freqs = {};
+			let freqs = [];
             data['lyrics'].forEach((element) => {
-                freqs[element.label] = element.value;
+				freqs.push({
+					label: element[0],
+					value: element[1]
+				});
 			});
 			setData(freqs);
 			console.log(freqs);
 		});
+
+		fetch('http://localhost:5000/predict', {
+			method: 'POST',
+			headers: {
+				"Content-Type": "application/json"
+			},
+			body: JSON.stringify({
+				lyrics: lyrics
+			})
+		})
+			.then(resp => resp.json())
+			.then(data => {
+				try {
+					setHit(data.n);
+				} catch (e) {
+					console.error(e);
+				}
+			});
 	};
 	const handleDrawer = () => {
 		setWidth(380);
@@ -104,31 +126,19 @@ const App = () => {
 					</Drawer>
 				</div>
 				{submit ? (
-					<div className="body" style={{ marginLeft: `${dWidth}px` }}>
+					<div className="body">
 						<h1> {songName + ' ' + artistName}</h1>
-
+						<h2>
+							{ hit ? "It's going to be a hit!" : "You don't have a top song"}
+						</h2>
+						<h3>
+							Your lyrics have a { hit * 100 }% chance of being a top hit on Billboard.
+						</h3>
 						<BubbleChart
-                                data={data}
-                                width={1000}
-                                height={1200}
-                                graph={{ zoom: 0.95 }}
-                                showLegend={false}
-                            />
-
-						<div className="circularBar">
-							<CircularProgressbar
-								value={69}
-								text={`69%`}
-								background
-								backgroundPadding={6}
-								styles={buildStyles({
-									backgroundColor: '#3e98c7',
-									textColor: '#fff',
-									pathColor: '#fff',
-									trailColor: 'transparent',
-								})}
-							/>
-						</div>
+							data={data}
+							graph={{ zoom: 0.8 }}
+							showLegend={false}
+						/>
 					</div>
 				) : (
 					<div></div>
