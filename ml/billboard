@@ -1,0 +1,1802 @@
+[
+    {
+        "n": "Truth Hurts",
+        "a": "Lizzo",
+        "p": "1",
+        "g": "http://genius.com/Lizzo-truth-hurts-lyrics"
+    },
+    {
+        "n": "Senorita",
+        "a": "Shawn Mendes & Camila Cabello",
+        "p": "1",
+        "g": "http://genius.com/Shawn-mendes-&-camila-cabello-senorita-lyrics"
+    },
+    {
+        "n": "Bad Guy",
+        "a": "Billie Eilish",
+        "p": "1",
+        "g": "http://genius.com/Billie-eilish-bad-guy-lyrics"
+    },
+    {
+        "n": "You Need To Calm Down",
+        "a": "Taylor Swift",
+        "p": "2",
+        "g": "http://genius.com/Taylor-swift-you-need-to-calm-down-lyrics"
+    },
+    {
+        "n": "Old Town Road",
+        "a": "Lil Nas X Featuring Billy Ray Cyrus",
+        "p": "1",
+        "g": "http://genius.com/Lil-nas-x-featuring-billy-ray-cyrus-old-town-road-lyrics"
+    },
+    {
+        "n": "Ran$om",
+        "a": "Lil Tecca",
+        "p": "5",
+        "g": "http://genius.com/Lil-tecca-ran$om-lyrics"
+    },
+    {
+        "n": "No Guidance",
+        "a": "Chris Brown Featuring Drake",
+        "p": "6",
+        "g": "http://genius.com/Chris-brown-featuring-drake-no-guidance-lyrics"
+    },
+    {
+        "n": "Talk",
+        "a": "Khalid",
+        "p": "3",
+        "g": "http://genius.com/Khalid-talk-lyrics"
+    },
+    {
+        "n": "I Don't Care",
+        "a": "Ed Sheeran & Justin Bieber",
+        "p": "2",
+        "g": "http://genius.com/Ed-sheeran-&-justin-bieber-i-dont-care-lyrics"
+    },
+    {
+        "n": "Lover",
+        "a": "Taylor Swift",
+        "p": "10",
+        "g": "http://genius.com/Taylor-swift-lover-lyrics"
+    },
+    {
+        "n": "ME!",
+        "a": "Taylor Swift Featuring Brendon Urie",
+        "p": "2",
+        "g": "http://genius.com/Taylor-swift-featuring-brendon-urie-me-lyrics"
+    },
+    {
+        "n": "Goodbyes",
+        "a": "Post Malone Featuring Young Thug",
+        "p": "3",
+        "g": "http://genius.com/Post-malone-featuring-young-thug-goodbyes-lyrics"
+    },
+    {
+        "n": "Someone You Loved",
+        "a": "Lewis Capaldi",
+        "p": "11",
+        "g": "http://genius.com/Lewis-capaldi-someone-you-loved-lyrics"
+    },
+    {
+        "n": "Money In The Grave",
+        "a": "Drake Featuring Rick Ross",
+        "p": "7",
+        "g": "http://genius.com/Drake-featuring-rick-ross-money-in-the-grave-lyrics"
+    },
+    {
+        "n": "Sucker",
+        "a": "Jonas Brothers",
+        "p": "1",
+        "g": "http://genius.com/Jonas-brothers-sucker-lyrics"
+    },
+    {
+        "n": "If I Can't Have You",
+        "a": "Shawn Mendes",
+        "p": "2",
+        "g": "http://genius.com/Shawn-mendes-if-i-cant-have-you-lyrics"
+    },
+    {
+        "n": "Sunflower (Spider-Man: Into The Spider-Verse)",
+        "a": "Post Malone & Swae Lee",
+        "p": "1",
+        "g": "http://genius.com/Post-malone-&-swae-lee-sunflower-(spider-man:-into-the-spider-verse-lyrics"
+    },
+    {
+        "n": "Suge",
+        "a": "DaBaby",
+        "p": "7",
+        "g": "http://genius.com/Dababy-suge-lyrics"
+    },
+    {
+        "n": "The Git Up",
+        "a": "Blanco Brown",
+        "p": "14",
+        "g": "http://genius.com/Blanco-brown-the-git-up-lyrics"
+    },
+    {
+        "n": "Beautiful People",
+        "a": "Ed Sheeran Featuring Khalid",
+        "p": "18",
+        "g": "http://genius.com/Ed-sheeran-featuring-khalid-beautiful-people-lyrics"
+    },
+    {
+        "n": "My Type",
+        "a": "Saweetie",
+        "p": "21",
+        "g": "http://genius.com/Saweetie-my-type-lyrics"
+    },
+    {
+        "n": "Boyfriend",
+        "a": "Ariana Grande & Social House",
+        "p": "8",
+        "g": "http://genius.com/Ariana-grande-&-social-house-boyfriend-lyrics"
+    },
+    {
+        "n": "The Man",
+        "a": "Taylor Swift",
+        "p": "23",
+        "g": "http://genius.com/Taylor-swift-the-man-lyrics"
+    },
+    {
+        "n": "Baby",
+        "a": "Lil Baby & DaBaby",
+        "p": "24",
+        "g": "http://genius.com/Lil-baby-&-dababy-baby-lyrics"
+    },
+    {
+        "n": "The London",
+        "a": "Young Thug, J. Cole & Travis Scott",
+        "p": "12",
+        "g": "http://genius.com/Young-thug,-j.-cole-&-travis-scott-the-london-lyrics"
+    },
+    {
+        "n": "Dancing With A Stranger",
+        "a": "Sam Smith & Normani",
+        "p": "7",
+        "g": "http://genius.com/Sam-smith-&-normani-dancing-with-a-stranger-lyrics"
+    },
+    {
+        "n": "Beer Never Broke My Heart",
+        "a": "Luke Combs",
+        "p": "21",
+        "g": "http://genius.com/Luke-combs-beer-never-broke-my-heart-lyrics"
+    },
+    {
+        "n": "I Forgot That You Existed",
+        "a": "Taylor Swift",
+        "p": "28",
+        "g": "http://genius.com/Taylor-swift-i-forgot-that-you-existed-lyrics"
+    },
+    {
+        "n": "Cruel Summer",
+        "a": "Taylor Swift",
+        "p": "29",
+        "g": "http://genius.com/Taylor-swift-cruel-summer-lyrics"
+    },
+    {
+        "n": "Pop Out",
+        "a": "Polo G Featuring Lil Tjay",
+        "p": "11",
+        "g": "http://genius.com/Polo-g-featuring-lil-tjay-pop-out-lyrics"
+    },
+    {
+        "n": "Hot Girl Summer",
+        "a": "Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",
+        "p": "11",
+        "g": "http://genius.com/Megan-thee-stallion,-nicki-minaj-&-ty-dolla-$ign-hot-girl-summer-lyrics"
+    },
+    {
+        "n": "Without Me",
+        "a": "Halsey",
+        "p": "1",
+        "g": "http://genius.com/Halsey-without-me-lyrics"
+    },
+    {
+        "n": "Speechless",
+        "a": "Dan + Shay",
+        "p": "24",
+        "g": "http://genius.com/Dan-+-shay-speechless-lyrics"
+    },
+    {
+        "n": "Knockin' Boots",
+        "a": "Luke Bryan",
+        "p": "32",
+        "g": "http://genius.com/Luke-bryan-knockin-boots-lyrics"
+    },
+    {
+        "n": "Wow.",
+        "a": "Post Malone",
+        "p": "2",
+        "g": "http://genius.com/Post-malone-wow-lyrics"
+    },
+    {
+        "n": "How Do You Sleep?",
+        "a": "Sam Smith",
+        "p": "29",
+        "g": "http://genius.com/Sam-smith-how-do-you-sleep-lyrics"
+    },
+    {
+        "n": "Hey Look Ma, I Made It",
+        "a": "Panic! At The Disco",
+        "p": "16",
+        "g": "http://genius.com/Panic!-at-the-disco-hey-look-ma,-i-made-it-lyrics"
+    },
+    {
+        "n": "The Archer",
+        "a": "Taylor Swift",
+        "p": "38",
+        "g": "http://genius.com/Taylor-swift-the-archer-lyrics"
+    },
+    {
+        "n": "Hot",
+        "a": "Young Thug Featuring Gunna",
+        "p": "26",
+        "g": "http://genius.com/Young-thug-featuring-gunna-hot-lyrics"
+    },
+    {
+        "n": "Panini",
+        "a": "Lil Nas X",
+        "p": "16",
+        "g": "http://genius.com/Lil-nas-x-panini-lyrics"
+    },
+    {
+        "n": "Trampoline",
+        "a": "SHAED",
+        "p": "41",
+        "g": "http://genius.com/Shaed-trampoline-lyrics"
+    },
+    {
+        "n": "Cash Shit",
+        "a": "Megan Thee Stallion Featuring DaBaby",
+        "p": "39",
+        "g": "http://genius.com/Megan-thee-stallion-featuring-dababy-cash-shit-lyrics"
+    },
+    {
+        "n": "7 Rings",
+        "a": "Ariana Grande",
+        "p": "1",
+        "g": "http://genius.com/Ariana-grande-7-rings-lyrics"
+    },
+    {
+        "n": "Only Human",
+        "a": "Jonas Brothers",
+        "p": "44",
+        "g": "http://genius.com/Jonas-brothers-only-human-lyrics"
+    },
+    {
+        "n": "Paper Rings",
+        "a": "Taylor Swift",
+        "p": "45",
+        "g": "http://genius.com/Taylor-swift-paper-rings-lyrics"
+    },
+    {
+        "n": "God's Country",
+        "a": "Blake Shelton",
+        "p": "17",
+        "g": "http://genius.com/Blake-shelton-gods-country-lyrics"
+    },
+    {
+        "n": "Whiskey Glasses",
+        "a": "Morgan Wallen",
+        "p": "17",
+        "g": "http://genius.com/Morgan-wallen-whiskey-glasses-lyrics"
+    },
+    {
+        "n": "All To Myself",
+        "a": "Dan + Shay",
+        "p": "31",
+        "g": "http://genius.com/Dan-+-shay-all-to-myself-lyrics"
+    },
+    {
+        "n": "Miss Americana & The Heartbreak Prince",
+        "a": "Taylor Swift",
+        "p": "49",
+        "g": "http://genius.com/Taylor-swift-miss-americana-&-the-heartbreak-prince-lyrics"
+    },
+    {
+        "n": "Shotta Flow",
+        "a": "NLE Choppa",
+        "p": "36",
+        "g": "http://genius.com/Nle-choppa-shotta-flow-lyrics"
+    },
+    {
+        "n": "I Think He Knows",
+        "a": "Taylor Swift",
+        "p": "51",
+        "g": "http://genius.com/Taylor-swift-i-think-he-knows-lyrics"
+    },
+    {
+        "n": "Good As Hell",
+        "a": "Lizzo",
+        "p": "52",
+        "g": "http://genius.com/Lizzo-good-as-hell-lyrics"
+    },
+    {
+        "n": "The Ones That Didn't Make It Back Home",
+        "a": "Justin Moore",
+        "p": "46",
+        "g": "http://genius.com/Justin-moore-the-ones-that-didnt-make-it-back-home-lyrics"
+    },
+    {
+        "n": "Bad Bad Bad",
+        "a": "Young Thug Featuring Lil Baby",
+        "p": "32",
+        "g": "http://genius.com/Young-thug-featuring-lil-baby-bad-bad-bad-lyrics"
+    },
+    {
+        "n": "On Chill",
+        "a": "Wale Featuring Jeremih",
+        "p": "55",
+        "g": "http://genius.com/Wale-featuring-jeremih-on-chill-lyrics"
+    },
+    {
+        "n": "Rearview Town",
+        "a": "Jason Aldean",
+        "p": "40",
+        "g": "http://genius.com/Jason-aldean-rearview-town-lyrics"
+    },
+    {
+        "n": "Cornelia Street",
+        "a": "Taylor Swift",
+        "p": "57",
+        "g": "http://genius.com/Taylor-swift-cornelia-street-lyrics"
+    },
+    {
+        "n": "China",
+        "a": "Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",
+        "p": "43",
+        "g": "http://genius.com/Anuel-aa,-daddy-yankee,-karol-g,-ozuna-&-j-balvin-china-lyrics"
+    },
+    {
+        "n": "One Thing Right",
+        "a": "Marshmello & Kane Brown",
+        "p": "46",
+        "g": "http://genius.com/Marshmello-&-kane-brown-one-thing-right-lyrics"
+    },
+    {
+        "n": "Otro Trago",
+        "a": "Sech, Darell, Nicky Jam, Ozuna & Anuel AA",
+        "p": "34",
+        "g": "http://genius.com/Sech,-darell,-nicky-jam,-ozuna-&-anuel-aa-otro-trago-lyrics"
+    },
+    {
+        "n": "Queen Of Mean",
+        "a": "Sarah Jeffery",
+        "p": "49",
+        "g": "http://genius.com/Sarah-jeffery-queen-of-mean-lyrics"
+    },
+    {
+        "n": "London Boy",
+        "a": "Taylor Swift",
+        "p": "62",
+        "g": "http://genius.com/Taylor-swift-london-boy-lyrics"
+    },
+    {
+        "n": "Soon You'll Get Better",
+        "a": "Taylor Swift Featuring Dixie Chicks",
+        "p": "63",
+        "g": "http://genius.com/Taylor-swift-featuring-dixie-chicks-soon-youll-get-better-lyrics"
+    },
+    {
+        "n": "Slide Away",
+        "a": "Miley Cyrus",
+        "p": "47",
+        "g": "http://genius.com/Miley-cyrus-slide-away-lyrics"
+    },
+    {
+        "n": "Easier",
+        "a": "5 Seconds Of Summer",
+        "p": "48",
+        "g": "http://genius.com/5-seconds-of-summer-easier-lyrics"
+    },
+    {
+        "n": "Motivation",
+        "a": "Normani",
+        "p": "33",
+        "g": "http://genius.com/Normani-motivation-lyrics"
+    },
+    {
+        "n": "Death By A Thousand Cuts",
+        "a": "Taylor Swift",
+        "p": "67",
+        "g": "http://genius.com/Taylor-swift-death-by-a-thousand-cuts-lyrics"
+    },
+    {
+        "n": "I Don't Know About You",
+        "a": "Chris Lane",
+        "p": "59",
+        "g": "http://genius.com/Chris-lane-i-dont-know-about-you-lyrics"
+    },
+    {
+        "n": "Callaita",
+        "a": "Bad Bunny & Tainy",
+        "p": "52",
+        "g": "http://genius.com/Bad-bunny-&-tainy-callaita-lyrics"
+    },
+    {
+        "n": "F.N",
+        "a": "Lil Tjay",
+        "p": "70",
+        "g": "http://genius.com/Lil-tjay-f.n-lyrics"
+    },
+    {
+        "n": "Lalala",
+        "a": "Y2K & bbno$",
+        "p": "64",
+        "g": "http://genius.com/Y2k-&-bbno-lalala-lyrics"
+    },
+    {
+        "n": "Time",
+        "a": "NF",
+        "p": "65",
+        "g": "http://genius.com/Nf-time-lyrics"
+    },
+    {
+        "n": "Living",
+        "a": "Dierks Bentley",
+        "p": "67",
+        "g": "http://genius.com/Dierks-bentley-living-lyrics"
+    },
+    {
+        "n": "Prayed For You",
+        "a": "Matt Stell",
+        "p": "74",
+        "g": "http://genius.com/Matt-stell-prayed-for-you-lyrics"
+    },
+    {
+        "n": "Afterglow",
+        "a": "Taylor Swift",
+        "p": "75",
+        "g": "http://genius.com/Taylor-swift-afterglow-lyrics"
+    },
+    {
+        "n": "Southbound",
+        "a": "Carrie Underwood",
+        "p": "68",
+        "g": "http://genius.com/Carrie-underwood-southbound-lyrics"
+    },
+    {
+        "n": "False God",
+        "a": "Taylor Swift",
+        "p": "77",
+        "g": "http://genius.com/Taylor-swift-false-god-lyrics"
+    },
+    {
+        "n": "It's You",
+        "a": "Ali Gatie",
+        "p": "70",
+        "g": "http://genius.com/Ali-gatie-its-you-lyrics"
+    },
+    {
+        "n": "Call You Mine",
+        "a": "The Chainsmokers & Bebe Rexha",
+        "p": "56",
+        "g": "http://genius.com/The-chainsmokers-&-bebe-rexha-call-you-mine-lyrics"
+    },
+    {
+        "n": "Hate Me",
+        "a": "Ellie Goulding & Juice WRLD",
+        "p": "72",
+        "g": "http://genius.com/Ellie-goulding-&-juice-wrld-hate-me-lyrics"
+    },
+    {
+        "n": "Love You Too Late",
+        "a": "Cole Swindell",
+        "p": "74",
+        "g": "http://genius.com/Cole-swindell-love-you-too-late-lyrics"
+    },
+    {
+        "n": "Juice",
+        "a": "Lizzo",
+        "p": "82",
+        "g": "http://genius.com/Lizzo-juice-lyrics"
+    },
+    {
+        "n": "Ballin'",
+        "a": "Mustard Featuring Roddy Ricch",
+        "p": "79",
+        "g": "http://genius.com/Mustard-featuring-roddy-ricch-ballin-lyrics"
+    },
+    {
+        "n": "Go Loko",
+        "a": "YG, Tyga & Jon Z",
+        "p": "49",
+        "g": "http://genius.com/Yg,-tyga-&-jon-z-go-loko-lyrics"
+    },
+    {
+        "n": "Press",
+        "a": "Cardi B",
+        "p": "16",
+        "g": "http://genius.com/Cardi-b-press-lyrics"
+    },
+    {
+        "n": "No Me Conoce",
+        "a": "Jhay Cortez, J Balvin & Bad Bunny",
+        "p": "71",
+        "g": "http://genius.com/Jhay-cortez,-j-balvin-&-bad-bunny-no-me-conoce-lyrics"
+    },
+    {
+        "n": "Playing Games",
+        "a": "Summer Walker",
+        "p": "87",
+        "g": "http://genius.com/Summer-walker-playing-games-lyrics"
+    },
+    {
+        "n": "Tip Of My Tongue",
+        "a": "Kenny Chesney",
+        "p": "77",
+        "g": "http://genius.com/Kenny-chesney-tip-of-my-tongue-lyrics"
+    },
+    {
+        "n": "Daylight",
+        "a": "Taylor Swift",
+        "p": "89",
+        "g": "http://genius.com/Taylor-swift-daylight-lyrics"
+    },
+    {
+        "n": "Raised On Country",
+        "a": "Chris Young",
+        "p": "54",
+        "g": "http://genius.com/Chris-young-raised-on-country-lyrics"
+    },
+    {
+        "n": "One Man Band",
+        "a": "Old Dominion",
+        "p": "91",
+        "g": "http://genius.com/Old-dominion-one-man-band-lyrics"
+    },
+    {
+        "n": "It's Nice To Have A Friend",
+        "a": "Taylor Swift",
+        "p": "92",
+        "g": "http://genius.com/Taylor-swift-its-nice-to-have-a-friend-lyrics"
+    },
+    {
+        "n": "Right Back",
+        "a": "Khalid Featuring A Boogie Wit da Hoodie",
+        "p": "81",
+        "g": "http://genius.com/Khalid-featuring-a-boogie-wit-da-hoodie-right-back-lyrics"
+    },
+    {
+        "n": "Never Really Over",
+        "a": "Katy Perry",
+        "p": "15",
+        "g": "http://genius.com/Katy-perry-never-really-over-lyrics"
+    },
+    {
+        "n": "Baguettes In The Face",
+        "a": "Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",
+        "p": "88",
+        "g": "http://genius.com/Mustard-featuring-nav,-playboi-carti-&-a-boogie-wit-da-hoodie-baguettes-in-the-face-lyrics"
+    },
+    {
+        "n": "Earfquake",
+        "a": "Tyler, The Creator",
+        "p": "13",
+        "g": "http://genius.com/Tyler,-the-creator-earfquake-lyrics"
+    },
+    {
+        "n": "Soltera",
+        "a": "Lunay, Daddy Yankee & Bad Bunny",
+        "p": "66",
+        "g": "http://genius.com/Lunay,-daddy-yankee-&-bad-bunny-soltera-lyrics"
+    },
+    {
+        "n": "Baby Sitter",
+        "a": "DaBaby Featuring Offset",
+        "p": "93",
+        "g": "http://genius.com/Dababy-featuring-offset-baby-sitter-lyrics"
+    },
+    {
+        "n": "Did It Again",
+        "a": "Lil Tecca",
+        "p": "99",
+        "g": "http://genius.com/Lil-tecca-did-it-again-lyrics"
+    },
+    {
+        "n": "Buy My Own Drinks",
+        "a": "Runaway June",
+        "p": "88",
+        "g": "http://genius.com/Runaway-june-buy-my-own-drinks-lyrics"
+    },
+    {
+        "n": "Truth Hurts",
+        "a": "Lizzo",
+        "p": "1",
+        "g": "http://genius.com/Lizzo-truth-hurts-lyrics"
+    },
+    {
+        "n": "Senorita",
+        "a": "Shawn Mendes & Camila Cabello",
+        "p": "1",
+        "g": "http://genius.com/Shawn-mendes-&-camila-cabello-senorita-lyrics"
+    },
+    {
+        "n": "Bad Guy",
+        "a": "Billie Eilish",
+        "p": "1",
+        "g": "http://genius.com/Billie-eilish-bad-guy-lyrics"
+    },
+    {
+        "n": "Ran$om",
+        "a": "Lil Tecca",
+        "p": "4",
+        "g": "http://genius.com/Lil-tecca-ran$om-lyrics"
+    },
+    {
+        "n": "Old Town Road",
+        "a": "Lil Nas X Featuring Billy Ray Cyrus",
+        "p": "1",
+        "g": "http://genius.com/Lil-nas-x-featuring-billy-ray-cyrus-old-town-road-lyrics"
+    },
+    {
+        "n": "No Guidance",
+        "a": "Chris Brown Featuring Drake",
+        "p": "6",
+        "g": "http://genius.com/Chris-brown-featuring-drake-no-guidance-lyrics"
+    },
+    {
+        "n": "Circles",
+        "a": "Post Malone",
+        "p": "7",
+        "g": "http://genius.com/Post-malone-circles-lyrics"
+    },
+    {
+        "n": "I Don't Care",
+        "a": "Ed Sheeran & Justin Bieber",
+        "p": "2",
+        "g": "http://genius.com/Ed-sheeran-&-justin-bieber-i-dont-care-lyrics"
+    },
+    {
+        "n": "Talk",
+        "a": "Khalid",
+        "p": "3",
+        "g": "http://genius.com/Khalid-talk-lyrics"
+    },
+    {
+        "n": "Goodbyes",
+        "a": "Post Malone Featuring Young Thug",
+        "p": "3",
+        "g": "http://genius.com/Post-malone-featuring-young-thug-goodbyes-lyrics"
+    },
+    {
+        "n": "Someone You Loved",
+        "a": "Lewis Capaldi",
+        "p": "11",
+        "g": "http://genius.com/Lewis-capaldi-someone-you-loved-lyrics"
+    },
+    {
+        "n": "You Need To Calm Down",
+        "a": "Taylor Swift",
+        "p": "2",
+        "g": "http://genius.com/Taylor-swift-you-need-to-calm-down-lyrics"
+    },
+    {
+        "n": "Sucker",
+        "a": "Jonas Brothers",
+        "p": "1",
+        "g": "http://genius.com/Jonas-brothers-sucker-lyrics"
+    },
+    {
+        "n": "Sunflower (Spider-Man: Into The Spider-Verse)",
+        "a": "Post Malone & Swae Lee",
+        "p": "1",
+        "g": "http://genius.com/Post-malone-&-swae-lee-sunflower-(spider-man:-into-the-spider-verse-lyrics"
+    },
+    {
+        "n": "Money In The Grave",
+        "a": "Drake Featuring Rick Ross",
+        "p": "7",
+        "g": "http://genius.com/Drake-featuring-rick-ross-money-in-the-grave-lyrics"
+    },
+    {
+        "n": "If I Can't Have You",
+        "a": "Shawn Mendes",
+        "p": "2",
+        "g": "http://genius.com/Shawn-mendes-if-i-cant-have-you-lyrics"
+    },
+    {
+        "n": "Beautiful People",
+        "a": "Ed Sheeran Featuring Khalid",
+        "p": "17",
+        "g": "http://genius.com/Ed-sheeran-featuring-khalid-beautiful-people-lyrics"
+    },
+    {
+        "n": "Suge",
+        "a": "DaBaby",
+        "p": "7",
+        "g": "http://genius.com/Dababy-suge-lyrics"
+    },
+    {
+        "n": "Boyfriend",
+        "a": "Ariana Grande & Social House",
+        "p": "8",
+        "g": "http://genius.com/Ariana-grande-&-social-house-boyfriend-lyrics"
+    },
+    {
+        "n": "The Git Up",
+        "a": "Blanco Brown",
+        "p": "14",
+        "g": "http://genius.com/Blanco-brown-the-git-up-lyrics"
+    },
+    {
+        "n": "Hot Girl Summer",
+        "a": "Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",
+        "p": "11",
+        "g": "http://genius.com/Megan-thee-stallion,-nicki-minaj-&-ty-dolla-$ign-hot-girl-summer-lyrics"
+    },
+    {
+        "n": "My Type",
+        "a": "Saweetie",
+        "p": "21",
+        "g": "http://genius.com/Saweetie-my-type-lyrics"
+    },
+    {
+        "n": "Lover",
+        "a": "Taylor Swift",
+        "p": "10",
+        "g": "http://genius.com/Taylor-swift-lover-lyrics"
+    },
+    {
+        "n": "The London",
+        "a": "Young Thug, J. Cole & Travis Scott",
+        "p": "12",
+        "g": "http://genius.com/Young-thug,-j.-cole-&-travis-scott-the-london-lyrics"
+    },
+    {
+        "n": "Dancing With A Stranger",
+        "a": "Sam Smith & Normani",
+        "p": "7",
+        "g": "http://genius.com/Sam-smith-&-normani-dancing-with-a-stranger-lyrics"
+    },
+    {
+        "n": "Baby",
+        "a": "Lil Baby & DaBaby",
+        "p": "24",
+        "g": "http://genius.com/Lil-baby-&-dababy-baby-lyrics"
+    },
+    {
+        "n": "Wow.",
+        "a": "Post Malone",
+        "p": "2",
+        "g": "http://genius.com/Post-malone-wow-lyrics"
+    },
+    {
+        "n": "Pop Out",
+        "a": "Polo G Featuring Lil Tjay",
+        "p": "11",
+        "g": "http://genius.com/Polo-g-featuring-lil-tjay-pop-out-lyrics"
+    },
+    {
+        "n": "Panini",
+        "a": "Lil Nas X",
+        "p": "16",
+        "g": "http://genius.com/Lil-nas-x-panini-lyrics"
+    },
+    {
+        "n": "Without Me",
+        "a": "Halsey",
+        "p": "1",
+        "g": "http://genius.com/Halsey-without-me-lyrics"
+    },
+    {
+        "n": "Knockin' Boots",
+        "a": "Luke Bryan",
+        "p": "31",
+        "g": "http://genius.com/Luke-bryan-knockin-boots-lyrics"
+    },
+    {
+        "n": "How Do You Sleep?",
+        "a": "Sam Smith",
+        "p": "29",
+        "g": "http://genius.com/Sam-smith-how-do-you-sleep-lyrics"
+    },
+    {
+        "n": "Beer Never Broke My Heart",
+        "a": "Luke Combs",
+        "p": "21",
+        "g": "http://genius.com/Luke-combs-beer-never-broke-my-heart-lyrics"
+    },
+    {
+        "n": "Speechless",
+        "a": "Dan + Shay",
+        "p": "24",
+        "g": "http://genius.com/Dan-+-shay-speechless-lyrics"
+    },
+    {
+        "n": "Only Human",
+        "a": "Jonas Brothers",
+        "p": "35",
+        "g": "http://genius.com/Jonas-brothers-only-human-lyrics"
+    },
+    {
+        "n": "Cash Shit",
+        "a": "Megan Thee Stallion Featuring DaBaby",
+        "p": "36",
+        "g": "http://genius.com/Megan-thee-stallion-featuring-dababy-cash-shit-lyrics"
+    },
+    {
+        "n": "Trampoline",
+        "a": "SHAED",
+        "p": "37",
+        "g": "http://genius.com/Shaed-trampoline-lyrics"
+    },
+    {
+        "n": "Hot",
+        "a": "Young Thug Featuring Gunna",
+        "p": "26",
+        "g": "http://genius.com/Young-thug-featuring-gunna-hot-lyrics"
+    },
+    {
+        "n": "Hey Look Ma, I Made It",
+        "a": "Panic! At The Disco",
+        "p": "16",
+        "g": "http://genius.com/Panic!-at-the-disco-hey-look-ma,-i-made-it-lyrics"
+    },
+    {
+        "n": "7 Rings",
+        "a": "Ariana Grande",
+        "p": "1",
+        "g": "http://genius.com/Ariana-grande-7-rings-lyrics"
+    },
+    {
+        "n": "Good As Hell",
+        "a": "Lizzo",
+        "p": "41",
+        "g": "http://genius.com/Lizzo-good-as-hell-lyrics"
+    },
+    {
+        "n": "One Thing Right",
+        "a": "Marshmello & Kane Brown",
+        "p": "42",
+        "g": "http://genius.com/Marshmello-&-kane-brown-one-thing-right-lyrics"
+    },
+    {
+        "n": "Whiskey Glasses",
+        "a": "Morgan Wallen",
+        "p": "17",
+        "g": "http://genius.com/Morgan-wallen-whiskey-glasses-lyrics"
+    },
+    {
+        "n": "God's Country",
+        "a": "Blake Shelton",
+        "p": "17",
+        "g": "http://genius.com/Blake-shelton-gods-country-lyrics"
+    },
+    {
+        "n": "On Chill",
+        "a": "Wale Featuring Jeremih",
+        "p": "45",
+        "g": "http://genius.com/Wale-featuring-jeremih-on-chill-lyrics"
+    },
+    {
+        "n": "Shotta Flow",
+        "a": "NLE Choppa",
+        "p": "36",
+        "g": "http://genius.com/Nle-choppa-shotta-flow-lyrics"
+    },
+    {
+        "n": "All To Myself",
+        "a": "Dan + Shay",
+        "p": "31",
+        "g": "http://genius.com/Dan-+-shay-all-to-myself-lyrics"
+    },
+    {
+        "n": "The Ones That Didn't Make It Back Home",
+        "a": "Justin Moore",
+        "p": "46",
+        "g": "http://genius.com/Justin-moore-the-ones-that-didnt-make-it-back-home-lyrics"
+    },
+    {
+        "n": "China",
+        "a": "Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",
+        "p": "43",
+        "g": "http://genius.com/Anuel-aa,-daddy-yankee,-karol-g,-ozuna-&-j-balvin-china-lyrics"
+    },
+    {
+        "n": "I Don't Know About You",
+        "a": "Chris Lane",
+        "p": "50",
+        "g": "http://genius.com/Chris-lane-i-dont-know-about-you-lyrics"
+    },
+    {
+        "n": "Motivation",
+        "a": "Normani",
+        "p": "33",
+        "g": "http://genius.com/Normani-motivation-lyrics"
+    },
+    {
+        "n": "Bad Bad Bad",
+        "a": "Young Thug Featuring Lil Baby",
+        "p": "32",
+        "g": "http://genius.com/Young-thug-featuring-lil-baby-bad-bad-bad-lyrics"
+    },
+    {
+        "n": "Otro Trago",
+        "a": "Sech, Darell, Nicky Jam, Ozuna & Anuel AA",
+        "p": "34",
+        "g": "http://genius.com/Sech,-darell,-nicky-jam,-ozuna-&-anuel-aa-otro-trago-lyrics"
+    },
+    {
+        "n": "ME!",
+        "a": "Taylor Swift Featuring Brendon Urie",
+        "p": "2",
+        "g": "http://genius.com/Taylor-swift-featuring-brendon-urie-me-lyrics"
+    },
+    {
+        "n": "Lalala",
+        "a": "Y2K & bbno$",
+        "p": "55",
+        "g": "http://genius.com/Y2k-&-bbno-lalala-lyrics"
+    },
+    {
+        "n": "Rearview Town",
+        "a": "Jason Aldean",
+        "p": "40",
+        "g": "http://genius.com/Jason-aldean-rearview-town-lyrics"
+    },
+    {
+        "n": "Living",
+        "a": "Dierks Bentley",
+        "p": "57",
+        "g": "http://genius.com/Dierks-bentley-living-lyrics"
+    },
+    {
+        "n": "Queen Of Mean",
+        "a": "Sarah Jeffery",
+        "p": "49",
+        "g": "http://genius.com/Sarah-jeffery-queen-of-mean-lyrics"
+    },
+    {
+        "n": "Doin' Time",
+        "a": "Lana Del Rey",
+        "p": "59",
+        "g": "http://genius.com/Lana-del-rey-doin-time-lyrics"
+    },
+    {
+        "n": "Time",
+        "a": "NF",
+        "p": "60",
+        "g": "http://genius.com/Nf-time-lyrics"
+    },
+    {
+        "n": "The Man",
+        "a": "Taylor Swift",
+        "p": "23",
+        "g": "http://genius.com/Taylor-swift-the-man-lyrics"
+    },
+    {
+        "n": "Easier",
+        "a": "5 Seconds Of Summer",
+        "p": "48",
+        "g": "http://genius.com/5-seconds-of-summer-easier-lyrics"
+    },
+    {
+        "n": "Callaita",
+        "a": "Bad Bunny & Tainy",
+        "p": "52",
+        "g": "http://genius.com/Bad-bunny-&-tainy-callaita-lyrics"
+    },
+    {
+        "n": "Did It Again",
+        "a": "Lil Tecca",
+        "p": "64",
+        "g": "http://genius.com/Lil-tecca-did-it-again-lyrics"
+    },
+    {
+        "n": "Prayed For You",
+        "a": "Matt Stell",
+        "p": "65",
+        "g": "http://genius.com/Matt-stell-prayed-for-you-lyrics"
+    },
+    {
+        "n": "Southbound",
+        "a": "Carrie Underwood",
+        "p": "66",
+        "g": "http://genius.com/Carrie-underwood-southbound-lyrics"
+    },
+    {
+        "n": "Slide Away",
+        "a": "Miley Cyrus",
+        "p": "47",
+        "g": "http://genius.com/Miley-cyrus-slide-away-lyrics"
+    },
+    {
+        "n": "F.N",
+        "a": "Lil Tjay",
+        "p": "68",
+        "g": "http://genius.com/Lil-tjay-f.n-lyrics"
+    },
+    {
+        "n": "Babushka Boi",
+        "a": "A$AP Rocky",
+        "p": "69",
+        "g": "http://genius.com/A$ap-rocky-babushka-boi-lyrics"
+    },
+    {
+        "n": "Ballin'",
+        "a": "Mustard Featuring Roddy Ricch",
+        "p": "70",
+        "g": "http://genius.com/Mustard-featuring-roddy-ricch-ballin-lyrics"
+    },
+    {
+        "n": "Cruel Summer",
+        "a": "Taylor Swift",
+        "p": "29",
+        "g": "http://genius.com/Taylor-swift-cruel-summer-lyrics"
+    },
+    {
+        "n": "Hate Me",
+        "a": "Ellie Goulding & Juice WRLD",
+        "p": "72",
+        "g": "http://genius.com/Ellie-goulding-&-juice-wrld-hate-me-lyrics"
+    },
+    {
+        "n": "Right Back",
+        "a": "Khalid Featuring A Boogie Wit da Hoodie",
+        "p": "73",
+        "g": "http://genius.com/Khalid-featuring-a-boogie-wit-da-hoodie-right-back-lyrics"
+    },
+    {
+        "n": "I Forgot That You Existed",
+        "a": "Taylor Swift",
+        "p": "28",
+        "g": "http://genius.com/Taylor-swift-i-forgot-that-you-existed-lyrics"
+    },
+    {
+        "n": "Love You Too Late",
+        "a": "Cole Swindell",
+        "p": "74",
+        "g": "http://genius.com/Cole-swindell-love-you-too-late-lyrics"
+    },
+    {
+        "n": "Call You Mine",
+        "a": "The Chainsmokers & Bebe Rexha",
+        "p": "56",
+        "g": "http://genius.com/The-chainsmokers-&-bebe-rexha-call-you-mine-lyrics"
+    },
+    {
+        "n": "Heat",
+        "a": "Chris Brown Featuring Gunna",
+        "p": "77",
+        "g": "http://genius.com/Chris-brown-featuring-gunna-heat-lyrics"
+    },
+    {
+        "n": "Press",
+        "a": "Cardi B",
+        "p": "16",
+        "g": "http://genius.com/Cardi-b-press-lyrics"
+    },
+    {
+        "n": "No Me Conoce",
+        "a": "Jhay Cortez, J Balvin & Bad Bunny",
+        "p": "71",
+        "g": "http://genius.com/Jhay-cortez,-j-balvin-&-bad-bunny-no-me-conoce-lyrics"
+    },
+    {
+        "n": "Out Of Luck",
+        "a": "Lil Tecca",
+        "p": "80",
+        "g": "http://genius.com/Lil-tecca-out-of-luck-lyrics"
+    },
+    {
+        "n": "Baguettes In The Face",
+        "a": "Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",
+        "p": "81",
+        "g": "http://genius.com/Mustard-featuring-nav,-playboi-carti-&-a-boogie-wit-da-hoodie-baguettes-in-the-face-lyrics"
+    },
+    {
+        "n": "One Man Band",
+        "a": "Old Dominion",
+        "p": "82",
+        "g": "http://genius.com/Old-dominion-one-man-band-lyrics"
+    },
+    {
+        "n": "It's You",
+        "a": "Ali Gatie",
+        "p": "70",
+        "g": "http://genius.com/Ali-gatie-its-you-lyrics"
+    },
+    {
+        "n": "Shots",
+        "a": "Lil Tecca",
+        "p": "84",
+        "g": "http://genius.com/Lil-tecca-shots-lyrics"
+    },
+    {
+        "n": "Tip Of My Tongue",
+        "a": "Kenny Chesney",
+        "p": "77",
+        "g": "http://genius.com/Kenny-chesney-tip-of-my-tongue-lyrics"
+    },
+    {
+        "n": "Juice",
+        "a": "Lizzo",
+        "p": "82",
+        "g": "http://genius.com/Lizzo-juice-lyrics"
+    },
+    {
+        "n": "Go Loko",
+        "a": "YG, Tyga & Jon Z",
+        "p": "49",
+        "g": "http://genius.com/Yg,-tyga-&-jon-z-go-loko-lyrics"
+    },
+    {
+        "n": "Baby Sitter",
+        "a": "DaBaby Featuring Offset",
+        "p": "88",
+        "g": "http://genius.com/Dababy-featuring-offset-baby-sitter-lyrics"
+    },
+    {
+        "n": "Bezerk",
+        "a": "Big Sean Featuring A$AP Ferg & Hit-Boy",
+        "p": "89",
+        "g": "http://genius.com/Big-sean-featuring-a$ap-ferg-&-hit-boy-bezerk-lyrics"
+    },
+    {
+        "n": "Good Vibes",
+        "a": "Chris Janson",
+        "p": "90",
+        "g": "http://genius.com/Chris-janson-good-vibes-lyrics"
+    },
+    {
+        "n": "What Happens In A Small Town",
+        "a": "Brantley Gilbert + Lindsay Ell",
+        "p": "85",
+        "g": "http://genius.com/Brantley-gilbert-+-lindsay-ell-what-happens-in-a-small-town-lyrics"
+    },
+    {
+        "n": "Buy My Own Drinks",
+        "a": "Runaway June",
+        "p": "88",
+        "g": "http://genius.com/Runaway-june-buy-my-own-drinks-lyrics"
+    },
+    {
+        "n": "Higher Love",
+        "a": "Kygo X Whitney Houston",
+        "p": "63",
+        "g": "http://genius.com/Kygo-x-whitney-houston-higher-love-lyrics"
+    },
+    {
+        "n": "God Only Knows",
+        "a": "for KING & COUNTRY",
+        "p": "94",
+        "g": "http://genius.com/For-king-&-country-god-only-knows-lyrics"
+    },
+    {
+        "n": "Wish Wish",
+        "a": "DJ Khaled Featuring Cardi B & 21 Savage",
+        "p": "19",
+        "g": "http://genius.com/Dj-khaled-featuring-cardi-b-&-21-savage-wish-wish-lyrics"
+    },
+    {
+        "n": "The Bones",
+        "a": "Maren Morris",
+        "p": "96",
+        "g": "http://genius.com/Maren-morris-the-bones-lyrics"
+    },
+    {
+        "n": "Love Me",
+        "a": "Lil Tecca",
+        "p": "97",
+        "g": "http://genius.com/Lil-tecca-love-me-lyrics"
+    },
+    {
+        "n": "La Cancion",
+        "a": "J Balvin & Bad Bunny",
+        "p": "98",
+        "g": "http://genius.com/J-balvin-&-bad-bunny-la-cancion-lyrics"
+    },
+    {
+        "n": "We Were",
+        "a": "Keith Urban",
+        "p": "80",
+        "g": "http://genius.com/Keith-urban-we-were-lyrics"
+    },
+    {
+        "n": "Soltera",
+        "a": "Lunay, Daddy Yankee & Bad Bunny",
+        "p": "66",
+        "g": "http://genius.com/Lunay,-daddy-yankee-&-bad-bunny-soltera-lyrics"
+    },
+    {
+        "n": "Truth Hurts",
+        "a": "Lizzo",
+        "p": "1",
+        "g": "http://genius.com/Lizzo-truth-hurts-lyrics"
+    },
+    {
+        "n": "Senorita",
+        "a": "Shawn Mendes & Camila Cabello",
+        "p": "1",
+        "g": "http://genius.com/Shawn-mendes-&-camila-cabello-senorita-lyrics"
+    },
+    {
+        "n": "Goodbyes",
+        "a": "Post Malone Featuring Young Thug",
+        "p": "3",
+        "g": "http://genius.com/Post-malone-featuring-young-thug-goodbyes-lyrics"
+    },
+    {
+        "n": "Circles",
+        "a": "Post Malone",
+        "p": "4",
+        "g": "http://genius.com/Post-malone-circles-lyrics"
+    },
+    {
+        "n": "Bad Guy",
+        "a": "Billie Eilish",
+        "p": "1",
+        "g": "http://genius.com/Billie-eilish-bad-guy-lyrics"
+    },
+    {
+        "n": "Ran$om",
+        "a": "Lil Tecca",
+        "p": "4",
+        "g": "http://genius.com/Lil-tecca-ran$om-lyrics"
+    },
+    {
+        "n": "No Guidance",
+        "a": "Chris Brown Featuring Drake",
+        "p": "6",
+        "g": "http://genius.com/Chris-brown-featuring-drake-no-guidance-lyrics"
+    },
+    {
+        "n": "Take What You Want",
+        "a": "Post Malone Featuring Ozzy Osbourne & Travis Scott",
+        "p": "8",
+        "g": "http://genius.com/Post-malone-featuring-ozzy-osbourne-&-travis-scott-take-what-you-want-lyrics"
+    },
+    {
+        "n": "Someone You Loved",
+        "a": "Lewis Capaldi",
+        "p": "9",
+        "g": "http://genius.com/Lewis-capaldi-someone-you-loved-lyrics"
+    },
+    {
+        "n": "Sunflower (Spider-Man: Into The Spider-Verse)",
+        "a": "Post Malone & Swae Lee",
+        "p": "1",
+        "g": "http://genius.com/Post-malone-&-swae-lee-sunflower-(spider-man:-into-the-spider-verse-lyrics"
+    },
+    {
+        "n": "Old Town Road",
+        "a": "Lil Nas X Featuring Billy Ray Cyrus",
+        "p": "1",
+        "g": "http://genius.com/Lil-nas-x-featuring-billy-ray-cyrus-old-town-road-lyrics"
+    },
+    {
+        "n": "Talk",
+        "a": "Khalid",
+        "p": "3",
+        "g": "http://genius.com/Khalid-talk-lyrics"
+    },
+    {
+        "n": "I Don't Care",
+        "a": "Ed Sheeran & Justin Bieber",
+        "p": "2",
+        "g": "http://genius.com/Ed-sheeran-&-justin-bieber-i-dont-care-lyrics"
+    },
+    {
+        "n": "Panini",
+        "a": "Lil Nas X",
+        "p": "14",
+        "g": "http://genius.com/Lil-nas-x-panini-lyrics"
+    },
+    {
+        "n": "Hollywood's Bleeding",
+        "a": "Post Malone",
+        "p": "15",
+        "g": "http://genius.com/Post-malone-hollywoods-bleeding-lyrics"
+    },
+    {
+        "n": "Enemies",
+        "a": "Post Malone Featuring DaBaby",
+        "p": "16",
+        "g": "http://genius.com/Post-malone-featuring-dababy-enemies-lyrics"
+    },
+    {
+        "n": "Wow.",
+        "a": "Post Malone",
+        "p": "2",
+        "g": "http://genius.com/Post-malone-wow-lyrics"
+    },
+    {
+        "n": "Saint-Tropez",
+        "a": "Post Malone",
+        "p": "18",
+        "g": "http://genius.com/Post-malone-saint-tropez-lyrics"
+    },
+    {
+        "n": "Sucker",
+        "a": "Jonas Brothers",
+        "p": "1",
+        "g": "http://genius.com/Jonas-brothers-sucker-lyrics"
+    },
+    {
+        "n": "Die For Me",
+        "a": "Post Malone Featuring Future & Halsey",
+        "p": "20",
+        "g": "http://genius.com/Post-malone-featuring-future-&-halsey-die-for-me-lyrics"
+    },
+    {
+        "n": "Money In The Grave",
+        "a": "Drake Featuring Rick Ross",
+        "p": "7",
+        "g": "http://genius.com/Drake-featuring-rick-ross-money-in-the-grave-lyrics"
+    },
+    {
+        "n": "On The Road",
+        "a": "Post Malone Featuring Meek Mill & Lil Baby",
+        "p": "22",
+        "g": "http://genius.com/Post-malone-featuring-meek-mill-&-lil-baby-on-the-road-lyrics"
+    },
+    {
+        "n": "Beautiful People",
+        "a": "Ed Sheeran Featuring Khalid",
+        "p": "17",
+        "g": "http://genius.com/Ed-sheeran-featuring-khalid-beautiful-people-lyrics"
+    },
+    {
+        "n": "You Need To Calm Down",
+        "a": "Taylor Swift",
+        "p": "2",
+        "g": "http://genius.com/Taylor-swift-you-need-to-calm-down-lyrics"
+    },
+    {
+        "n": "Boyfriend",
+        "a": "Ariana Grande & Social House",
+        "p": "8",
+        "g": "http://genius.com/Ariana-grande-&-social-house-boyfriend-lyrics"
+    },
+    {
+        "n": "Suge",
+        "a": "DaBaby",
+        "p": "7",
+        "g": "http://genius.com/Dababy-suge-lyrics"
+    },
+    {
+        "n": "If I Can't Have You",
+        "a": "Shawn Mendes",
+        "p": "2",
+        "g": "http://genius.com/Shawn-mendes-if-i-cant-have-you-lyrics"
+    },
+    {
+        "n": "Hot Girl Summer",
+        "a": "Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",
+        "p": "11",
+        "g": "http://genius.com/Megan-thee-stallion,-nicki-minaj-&-ty-dolla-$ign-hot-girl-summer-lyrics"
+    },
+    {
+        "n": "A Thousand Bad Times",
+        "a": "Post Malone",
+        "p": "29",
+        "g": "http://genius.com/Post-malone-a-thousand-bad-times-lyrics"
+    },
+    {
+        "n": "My Type",
+        "a": "Saweetie",
+        "p": "21",
+        "g": "http://genius.com/Saweetie-my-type-lyrics"
+    },
+    {
+        "n": "The Git Up",
+        "a": "Blanco Brown",
+        "p": "14",
+        "g": "http://genius.com/Blanco-brown-the-git-up-lyrics"
+    },
+    {
+        "n": "Baby",
+        "a": "Lil Baby & DaBaby",
+        "p": "24",
+        "g": "http://genius.com/Lil-baby-&-dababy-baby-lyrics"
+    },
+    {
+        "n": "I'm Gonna Be",
+        "a": "Post Malone",
+        "p": "33",
+        "g": "http://genius.com/Post-malone-im-gonna-be-lyrics"
+    },
+    {
+        "n": "Staring At The Sun",
+        "a": "Post Malone Featuring SZA",
+        "p": "34",
+        "g": "http://genius.com/Post-malone-featuring-sza-staring-at-the-sun-lyrics"
+    },
+    {
+        "n": "Dancing With A Stranger",
+        "a": "Sam Smith & Normani",
+        "p": "7",
+        "g": "http://genius.com/Sam-smith-&-normani-dancing-with-a-stranger-lyrics"
+    },
+    {
+        "n": "The London",
+        "a": "Young Thug, J. Cole & Travis Scott",
+        "p": "12",
+        "g": "http://genius.com/Young-thug,-j.-cole-&-travis-scott-the-london-lyrics"
+    },
+    {
+        "n": "Allergic",
+        "a": "Post Malone",
+        "p": "37",
+        "g": "http://genius.com/Post-malone-allergic-lyrics"
+    },
+    {
+        "n": "Knockin' Boots",
+        "a": "Luke Bryan",
+        "p": "31",
+        "g": "http://genius.com/Luke-bryan-knockin-boots-lyrics"
+    },
+    {
+        "n": "How Do You Sleep?",
+        "a": "Sam Smith",
+        "p": "29",
+        "g": "http://genius.com/Sam-smith-how-do-you-sleep-lyrics"
+    },
+    {
+        "n": "Without Me",
+        "a": "Halsey",
+        "p": "1",
+        "g": "http://genius.com/Halsey-without-me-lyrics"
+    },
+    {
+        "n": "Pop Out",
+        "a": "Polo G Featuring Lil Tjay",
+        "p": "11",
+        "g": "http://genius.com/Polo-g-featuring-lil-tjay-pop-out-lyrics"
+    },
+    {
+        "n": "Trampoline",
+        "a": "SHAED",
+        "p": "37",
+        "g": "http://genius.com/Shaed-trampoline-lyrics"
+    },
+    {
+        "n": "Hot",
+        "a": "Young Thug Featuring Gunna",
+        "p": "26",
+        "g": "http://genius.com/Young-thug-featuring-gunna-hot-lyrics"
+    },
+    {
+        "n": "Beer Never Broke My Heart",
+        "a": "Luke Combs",
+        "p": "21",
+        "g": "http://genius.com/Luke-combs-beer-never-broke-my-heart-lyrics"
+    },
+    {
+        "n": "Speechless",
+        "a": "Dan + Shay",
+        "p": "24",
+        "g": "http://genius.com/Dan-+-shay-speechless-lyrics"
+    },
+    {
+        "n": "Cash Shit",
+        "a": "Megan Thee Stallion Featuring DaBaby",
+        "p": "36",
+        "g": "http://genius.com/Megan-thee-stallion-featuring-dababy-cash-shit-lyrics"
+    },
+    {
+        "n": "Only Human",
+        "a": "Jonas Brothers",
+        "p": "35",
+        "g": "http://genius.com/Jonas-brothers-only-human-lyrics"
+    },
+    {
+        "n": "On Chill",
+        "a": "Wale Featuring Jeremih",
+        "p": "45",
+        "g": "http://genius.com/Wale-featuring-jeremih-on-chill-lyrics"
+    },
+    {
+        "n": "Lover",
+        "a": "Taylor Swift",
+        "p": "10",
+        "g": "http://genius.com/Taylor-swift-lover-lyrics"
+    },
+    {
+        "n": "Hey Look Ma, I Made It",
+        "a": "Panic! At The Disco",
+        "p": "16",
+        "g": "http://genius.com/Panic!-at-the-disco-hey-look-ma,-i-made-it-lyrics"
+    },
+    {
+        "n": "Good As Hell",
+        "a": "Lizzo",
+        "p": "41",
+        "g": "http://genius.com/Lizzo-good-as-hell-lyrics"
+    },
+    {
+        "n": "Myself",
+        "a": "Post Malone",
+        "p": "52",
+        "g": "http://genius.com/Post-malone-myself-lyrics"
+    },
+    {
+        "n": "I Know",
+        "a": "Post Malone",
+        "p": "53",
+        "g": "http://genius.com/Post-malone-i-know-lyrics"
+    },
+    {
+        "n": "I Don't Know About You",
+        "a": "Chris Lane",
+        "p": "50",
+        "g": "http://genius.com/Chris-lane-i-dont-know-about-you-lyrics"
+    },
+    {
+        "n": "One Thing Right",
+        "a": "Marshmello & Kane Brown",
+        "p": "42",
+        "g": "http://genius.com/Marshmello-&-kane-brown-one-thing-right-lyrics"
+    },
+    {
+        "n": "Liar",
+        "a": "Camila Cabello",
+        "p": "56",
+        "g": "http://genius.com/Camila-cabello-liar-lyrics"
+    },
+    {
+        "n": "China",
+        "a": "Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",
+        "p": "43",
+        "g": "http://genius.com/Anuel-aa,-daddy-yankee,-karol-g,-ozuna-&-j-balvin-china-lyrics"
+    },
+    {
+        "n": "Internet",
+        "a": "Post Malone",
+        "p": "58",
+        "g": "http://genius.com/Post-malone-internet-lyrics"
+    },
+    {
+        "n": "Living",
+        "a": "Dierks Bentley",
+        "p": "57",
+        "g": "http://genius.com/Dierks-bentley-living-lyrics"
+    },
+    {
+        "n": "Shameless",
+        "a": "Camila Cabello",
+        "p": "60",
+        "g": "http://genius.com/Camila-cabello-shameless-lyrics"
+    },
+    {
+        "n": "Motivation",
+        "a": "Normani",
+        "p": "33",
+        "g": "http://genius.com/Normani-motivation-lyrics"
+    },
+    {
+        "n": "Bad Bad Bad",
+        "a": "Young Thug Featuring Lil Baby",
+        "p": "32",
+        "g": "http://genius.com/Young-thug-featuring-lil-baby-bad-bad-bad-lyrics"
+    },
+    {
+        "n": "Otro Trago",
+        "a": "Sech, Darell, Nicky Jam, Ozuna & Anuel AA",
+        "p": "34",
+        "g": "http://genius.com/Sech,-darell,-nicky-jam,-ozuna-&-anuel-aa-otro-trago-lyrics"
+    },
+    {
+        "n": "Time",
+        "a": "NF",
+        "p": "60",
+        "g": "http://genius.com/Nf-time-lyrics"
+    },
+    {
+        "n": "Lalala",
+        "a": "Y2K & bbno$",
+        "p": "55",
+        "g": "http://genius.com/Y2k-&-bbno-lalala-lyrics"
+    },
+    {
+        "n": "The Ones That Didn't Make It Back Home",
+        "a": "Justin Moore",
+        "p": "46",
+        "g": "http://genius.com/Justin-moore-the-ones-that-didnt-make-it-back-home-lyrics"
+    },
+    {
+        "n": "All To Myself",
+        "a": "Dan + Shay",
+        "p": "31",
+        "g": "http://genius.com/Dan-+-shay-all-to-myself-lyrics"
+    },
+    {
+        "n": "Self Control",
+        "a": "YoungBoy Never Broke Again",
+        "p": "68",
+        "g": "http://genius.com/Youngboy-never-broke-again-self-control-lyrics"
+    },
+    {
+        "n": "Ballin'",
+        "a": "Mustard Featuring Roddy Ricch",
+        "p": "69",
+        "g": "http://genius.com/Mustard-featuring-roddy-ricch-ballin-lyrics"
+    },
+    {
+        "n": "Heat",
+        "a": "Chris Brown Featuring Gunna",
+        "p": "70",
+        "g": "http://genius.com/Chris-brown-featuring-gunna-heat-lyrics"
+    },
+    {
+        "n": "Prayed For You",
+        "a": "Matt Stell",
+        "p": "65",
+        "g": "http://genius.com/Matt-stell-prayed-for-you-lyrics"
+    },
+    {
+        "n": "Callaita",
+        "a": "Bad Bunny & Tainy",
+        "p": "52",
+        "g": "http://genius.com/Bad-bunny-&-tainy-callaita-lyrics"
+    },
+    {
+        "n": "Slide Away",
+        "a": "Miley Cyrus",
+        "p": "47",
+        "g": "http://genius.com/Miley-cyrus-slide-away-lyrics"
+    },
+    {
+        "n": "Southbound",
+        "a": "Carrie Underwood",
+        "p": "66",
+        "g": "http://genius.com/Carrie-underwood-southbound-lyrics"
+    },
+    {
+        "n": "Rearview Town",
+        "a": "Jason Aldean",
+        "p": "40",
+        "g": "http://genius.com/Jason-aldean-rearview-town-lyrics"
+    },
+    {
+        "n": "Queen Of Mean",
+        "a": "Sarah Jeffery",
+        "p": "49",
+        "g": "http://genius.com/Sarah-jeffery-queen-of-mean-lyrics"
+    },
+    {
+        "n": "Love You Too Late",
+        "a": "Cole Swindell",
+        "p": "74",
+        "g": "http://genius.com/Cole-swindell-love-you-too-late-lyrics"
+    },
+    {
+        "n": "Did It Again",
+        "a": "Lil Tecca",
+        "p": "64",
+        "g": "http://genius.com/Lil-tecca-did-it-again-lyrics"
+    },
+    {
+        "n": "No Me Conoce",
+        "a": "Jhay Cortez, J Balvin & Bad Bunny",
+        "p": "71",
+        "g": "http://genius.com/Jhay-cortez,-j-balvin-&-bad-bunny-no-me-conoce-lyrics"
+    },
+    {
+        "n": "F.N",
+        "a": "Lil Tjay",
+        "p": "68",
+        "g": "http://genius.com/Lil-tjay-f.n-lyrics"
+    },
+    {
+        "n": "One Man Band",
+        "a": "Old Dominion",
+        "p": "81",
+        "g": "http://genius.com/Old-dominion-one-man-band-lyrics"
+    },
+    {
+        "n": "homecoming queen?",
+        "a": "Kelsea Ballerini",
+        "p": "82",
+        "g": "http://genius.com/Kelsea-ballerini-homecoming-queen-lyrics"
+    },
+    {
+        "n": "Hate Me",
+        "a": "Ellie Goulding & Juice WRLD",
+        "p": "72",
+        "g": "http://genius.com/Ellie-goulding-&-juice-wrld-hate-me-lyrics"
+    },
+    {
+        "n": "Press",
+        "a": "Cardi B",
+        "p": "16",
+        "g": "http://genius.com/Cardi-b-press-lyrics"
+    },
+    {
+        "n": "Good Vibes",
+        "a": "Chris Janson",
+        "p": "85",
+        "g": "http://genius.com/Chris-janson-good-vibes-lyrics"
+    },
+    {
+        "n": "Baby Sitter",
+        "a": "DaBaby Featuring Offset",
+        "p": "86",
+        "g": "http://genius.com/Dababy-featuring-offset-baby-sitter-lyrics"
+    },
+    {
+        "n": "223's",
+        "a": "YNW Melly & 9lokknine",
+        "p": "87",
+        "g": "http://genius.com/Ynw-melly-&-9lokknine-223s-lyrics"
+    },
+    {
+        "n": "Buy My Own Drinks",
+        "a": "Runaway June",
+        "p": "88",
+        "g": "http://genius.com/Runaway-june-buy-my-own-drinks-lyrics"
+    },
+    {
+        "n": "Tip Of My Tongue",
+        "a": "Kenny Chesney",
+        "p": "77",
+        "g": "http://genius.com/Kenny-chesney-tip-of-my-tongue-lyrics"
+    },
+    {
+        "n": "Easier",
+        "a": "5 Seconds Of Summer",
+        "p": "48",
+        "g": "http://genius.com/5-seconds-of-summer-easier-lyrics"
+    },
+    {
+        "n": "Every Little Thing",
+        "a": "Russell Dickerson",
+        "p": "91",
+        "g": "http://genius.com/Russell-dickerson-every-little-thing-lyrics"
+    },
+    {
+        "n": "Even Though I'm Leaving",
+        "a": "Luke Combs",
+        "p": "62",
+        "g": "http://genius.com/Luke-combs-even-though-im-leaving-lyrics"
+    },
+    {
+        "n": "Right Back",
+        "a": "Khalid Featuring A Boogie Wit da Hoodie",
+        "p": "73",
+        "g": "http://genius.com/Khalid-featuring-a-boogie-wit-da-hoodie-right-back-lyrics"
+    },
+    {
+        "n": "What Happens In A Small Town",
+        "a": "Brantley Gilbert + Lindsay Ell",
+        "p": "85",
+        "g": "http://genius.com/Brantley-gilbert-+-lindsay-ell-what-happens-in-a-small-town-lyrics"
+    },
+    {
+        "n": "Baguettes In The Face",
+        "a": "Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",
+        "p": "81",
+        "g": "http://genius.com/Mustard-featuring-nav,-playboi-carti-&-a-boogie-wit-da-hoodie-baguettes-in-the-face-lyrics"
+    },
+    {
+        "n": "The Man",
+        "a": "Taylor Swift",
+        "p": "23",
+        "g": "http://genius.com/Taylor-swift-the-man-lyrics"
+    },
+    {
+        "n": "It's You",
+        "a": "Ali Gatie",
+        "p": "70",
+        "g": "http://genius.com/Ali-gatie-its-you-lyrics"
+    },
+    {
+        "n": "Go Loko",
+        "a": "YG, Tyga & Jon Z",
+        "p": "49",
+        "g": "http://genius.com/Yg,-tyga-&-jon-z-go-loko-lyrics"
+    },
+    {
+        "n": "Playing Games",
+        "a": "Summer Walker",
+        "p": "87",
+        "g": "http://genius.com/Summer-walker-playing-games-lyrics"
+    },
+    {
+        "n": "Doin' Time",
+        "a": "Lana Del Rey",
+        "p": "59",
+        "g": "http://genius.com/Lana-del-rey-doin-time-lyrics"
+    }
+]
